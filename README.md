@@ -10,7 +10,7 @@ This project involves creating a React and TypeScript-based dashboard page using
 - TypeScript
 - Polaris by Shopify
 
-## Live Demo: 
+## Live Demo: [Visit](https://postship-dashboard-ui.vercel.app)
 
 ## Demo ScreenShots
 ![Webpage UI](https://github.com/PranabKumarSahoo/instasell-frontend-assignment/blob/main/src/assets/assignment-ui.png)
