@@ -1,0 +1,32 @@
+.hero-container {
+    padding: 60px;
+    height: auto;
+    background-color: #FFFDFA;
+    background-image: url('../../assets/bg-illustration.png');
+}
+
+.hero-section-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.hero-container .hero-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #4A4A4A;
+}
+
+.hero-card-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.hero-card {
+    width: 332px;
+}
