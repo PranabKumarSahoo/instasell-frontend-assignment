@@ -35,3 +35,31 @@
 .funct-right-card {
     width: 350px;
 }
+
+.color-box-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .funct-container {
+        padding: 10px;
+    }
+
+    .funct-section-container {
+        padding: 20px;
+    }
+
+    .funct-card-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .funct-middle-card,
+    .funct-left-card,
+    .funct-right-card {
+        width: 100%;
+    }
+}

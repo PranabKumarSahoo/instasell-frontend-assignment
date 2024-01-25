@@ -26,7 +26,7 @@ const Placeholder: React.FC<PlaceholderProps> = ({ background }) => {
         <div
             style={{
                 background,
-                padding: '16px',
+                padding: '17px',
                 borderRadius: '7px',
                 position: 'relative',
                 top: '24px',
@@ -55,7 +55,7 @@ const OurFunctionality: React.FC = () => {
                                     </Text>
                                 </BlockStack>
                                 <BlockStack gap="500">
-                                    <div style={{ display: "flex", justifyContent: "space-between" }}>
+                                    <div className='color-box-container'>
                                         <TextField
                                             label="Accent Color"
                                             autoComplete="on"
@@ -65,7 +65,7 @@ const OurFunctionality: React.FC = () => {
                                             <Placeholder background='#FF9898' />
                                         </Box>
                                     </div>
-                                    <div style={{ display: "flex", justifyContent: "space-between" }}>
+                                    <div className='color-box-container'>
                                         <TextField
                                             label="Text Color"
                                             autoComplete="on"
@@ -75,7 +75,7 @@ const OurFunctionality: React.FC = () => {
                                             <Placeholder background='#571010' />
                                         </Box>
                                     </div>
-                                    <div style={{ display: "flex", justifyContent: "space-between" }}>
+                                    <div className='color-box-container'>
                                         <TextField
                                             label="Background Color"
                                             autoComplete="on"
