@@ -18,5 +18,8 @@ This project involves creating a React and TypeScript-based dashboard page using
 
 **Mobile View**
 ![Mobile View - Hero](https://github.com/PranabKumarSahoo/instasell-frontend-assignment/blob/main/src/assets/HeroSectionSS.png)
+
 ![Mobile View - Perfomance](https://github.com/PranabKumarSahoo/instasell-frontend-assignment/blob/main/src/assets/PerformanceSectionSS.png)
+
 ![Mobile View - Functionality](https://github.com/PranabKumarSahoo/instasell-frontend-assignment/blob/main/src/assets/FunctionalitySectionSS.png)
+
