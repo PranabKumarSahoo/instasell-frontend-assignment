@@ -1,4 +1,4 @@
-# Postship Dashboard Frontend Assignment
+# Postship Dashboard - Instasell Frontend Assignment
 
 ## Overview
 
