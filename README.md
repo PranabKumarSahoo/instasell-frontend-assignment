@@ -13,11 +13,11 @@ This project involves creating a React and TypeScript-based dashboard page using
 ## Live Demo: [Visit](https://postship-dashboard-ui.vercel.app)
 
 ## Demo ScreenShots
-**Desktop View**
+- **Desktop View**
 
 ![Webpage UI](https://github.com/PranabKumarSahoo/instasell-frontend-assignment/blob/main/src/assets/assignment-ui.png)
 
-**Mobile View**
+- **Mobile View**
 
 ![Mobile View - Hero](https://github.com/PranabKumarSahoo/instasell-frontend-assignment/blob/main/src/assets/HeroSectionSS.png)
 
